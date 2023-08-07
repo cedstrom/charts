@@ -9,7 +9,7 @@ nginxImage:
 imaginaryImage:
   repository: tccr.io/truecharts/nextcloud-imaginary
   pullPolicy: IfNotPresent
-  tag: v20230401@sha256:9d90b996789ff4e6a700cca97273d86c07b508c627cd1c25d6526fba819797bd
+  tag: v20230401@sha256:e3598af8094cffb3dfed14003b67eef075c622bda4a29b96ee586e2cefc1bdd9
 hpbImage:
   repository: tccr.io/truecharts/nextcloud-push-notify
   pullPolicy: IfNotPresent
